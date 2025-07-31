@@ -1,4 +1,1 @@
-{
-  "dependencies": ["cyclario-core@^0.1.0"],
-  "devDependencies": ["cyclario-hooks@^0.2.0"]
-}
+
